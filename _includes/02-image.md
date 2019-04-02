@@ -1,0 +1,1 @@
+![Ninja shaolin munk!](https://octodex.github.com/images/yaktocat.png)
